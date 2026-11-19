@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Practica 4: Sistema Endocrino'
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Eduardo
+    family-names: Del Toro Nuñez
+    email: C23212399@tectijuana.edu.mx
+    affiliation: TecNM / IT Tijuana
+repository-code: 'https://github.com/deltorox-e-ITT/MSFP4'
+keywords:
+  - sistema endócrino
+  - analogía eléctrica
+  - circuito RLC de segundo orden
+  - función de transferencia
+  - estabilidad
+  - controlador PID
+  - MATLAB
+  - Simulink
+  - Simscape Electrical
+  - Python
+  - amplificadores operacionales
+license: BSD-2-Clause
+date-released: '2026-11-18'
